@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="两数相加（面向对象）.cpp">
+    <ClCompile Include="函数模板示例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

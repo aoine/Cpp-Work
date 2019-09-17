@@ -1,19 +1,11 @@
 #include <iostream>
 using namespace std;
+template<typename T>
 
-class Sum
+class H
 {
 private:
-	double a, b;
+	int a, b;
 public:
 	void SR() { cout << "a=";	cin >> a;	cout << "b=";	cin >> b; }
-	void SC() { cout <<"a+b=" << a + b << endl; }
 };
-
-int main()
-{
-	Sum h;
-	h.SR();
-	h.SC();
-	return 0;
-}
